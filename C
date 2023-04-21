@@ -5,7 +5,7 @@
 int main(){
 
 	setlocale(LC_ALL, "Portuguese");
-	char nome[5][20], email[5][20], tel[5][20];
+	char nome[10][20], email[10][20], tel[10][20];
 	int  cod, menu;
 	int i;
 	
