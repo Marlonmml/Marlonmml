@@ -1,1 +1,1 @@
-Este código foi elaborado com o propósito de ser um sistema de cadastros, em linguagem C.
+This code was created with the purpose of being a registration system, in C language.
